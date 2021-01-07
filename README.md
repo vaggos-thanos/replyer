@@ -4,7 +4,7 @@ This package reply your text
 
 this is the form in discord.js 
 client.on('message', (message) =>{
-    const logger = require('replyer')
+    const logger = require('discord.js-replyer')
     const guild = message.guild;
     const channelId = guild.channels.cache.get('your channel id');
     const logChannel = guild.channels.cache.get('your logs channel id');
