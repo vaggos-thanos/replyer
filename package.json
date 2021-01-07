@@ -1,0 +1,22 @@
+{
+  "name": "replyer",
+  "version": "1.0.0",
+  "description": "This module can replay a text ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaggos-thanos/replyer.git"
+  },
+  "keywords": [
+    "replayer"
+  ],
+  "author": "vaggos#1766",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaggos-thanos/replyer/issues"
+  },
+  "homepage": "https://github.com/vaggos-thanos/replyer#readme"
+}
