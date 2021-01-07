@@ -1,5 +1,5 @@
 {
-  "name": "replyer",
+  "name": "discord.js-replyer",
   "version": "1.0.0",
   "description": "This module can replay a text ",
   "main": "index.js",
