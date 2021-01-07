@@ -1,4 +1,4 @@
-# Discord.js Replyer
+# Discord.js discord.js-replyer
 
 This package reply your text 
 
